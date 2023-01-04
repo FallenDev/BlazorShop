@@ -1,6 +1,6 @@
 # Blazor Shop Store
 
-* This repository contains the code of an online shop, both the front-end and the back-end, the database was built using the Code-First approach (the migrations are also present, just migrate them to your local SQL Server Database). The interface is built using pages but using the razor component functionalities. The server is based on Net 6 with C# 10 capabilities. The server is a Web API implemented using the guidelines of CQRS and Mediator architectural pattern.
+* This repository contains the code of an online shop, both the front-end and the back-end, the database was built using the Code-First approach (the migrations are also present, just migrate them to your local SQL Server Database). The interface is built using pages but using the razor component functionalities. The server is based on Net 7 with C# 11 capabilities. The server is a Web API implemented using the guidelines of CQRS and Mediator architectural pattern.
 
 * <strike>Video Demo Link: (In the Future)</strike>
 
